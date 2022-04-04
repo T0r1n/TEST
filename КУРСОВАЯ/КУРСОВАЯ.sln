@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoteLab", "HoteLab.csproj", "{29436F87-478F-4E8E-820E-31D26E6A9376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29436F87-478F-4E8E-820E-31D26E6A9376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29436F87-478F-4E8E-820E-31D26E6A9376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29436F87-478F-4E8E-820E-31D26E6A9376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29436F87-478F-4E8E-820E-31D26E6A9376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCEBAB1-6C3C-4FB0-8E55-B72AE792D52E}
+	EndGlobalSection
+EndGlobal
